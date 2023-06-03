@@ -1,0 +1,49 @@
+.heading
+{
+    font-size:23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px rgb(32, 144, 196);
+    font-weight: bold;
+    font-family: 'Playfair Display', serif;
+}
+
+.note
+{
+    color: rgb(255, 0, 0);
+    font-size: 15px;
+}
+
+.copy_right_footer
+{
+    position:fixed;
+    color:white;
+    bottom:0;
+    width:100%;
+    background-color: rgb(30, 182, 220);
+    line-height: 3;
+    text-align: center;
+    opacity: 60%;
+    font-style:oblique;
+    font-family: 'Roboto Slab', serif;
+    border:6px dashed rgb(15, 150, 183);
+    font-weight: bold;
+}
+
+canvas
+{
+    border:5px dashed rgb(124, 151, 179);
+    border-radius:20px;
+    box-shadow:5px 5px 5px rgb(87, 143, 174);
+    margin-left: 240px;
+}
+
+body{
+    background-repeat: none;
+    background-size: 1500px;
+}
+
+video
+{
+    margin-left: 230px;
+}
